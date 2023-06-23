@@ -5,11 +5,11 @@ import fs from 'fs'
 
 //⊱ ━━━━━.⋅ Owner ⋅.━━━━ ⊰
 global.owner = [
-  ['59894808483', 'Azami', true],
-  ['5214531173598'], ['5214531106422'], ['593968585383'], ['5492266613038'], ['5492266466080']]  
+  ['94770611075', 'x_pramaya_x', true],
+  ['94770611075'], ['94770611075'], ['94770611075'], ['94770611075'], ['94770611075']]  
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.suittag = ['59894808483'] 
+global.suittag = ['94770611075'] 
 global.mods = [] 
 global.prems = []
 
@@ -90,13 +90,13 @@ global.author = '@1.0.0'
 
 //⊱ ━━━━━.⋅ Información ⋅.━━━━ ⊰
 
-global.wm = '『 CuriosityBot-MD 』'
-global.azami = 'Azami ©'
-global.cb = 'CuriosityBot-MD'
+global.wm = '『 x_pramaya_x 』'
+global.azami = 'x_pramaya_x ©'
+global.cb = 'x_pramaya_x'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 global.vs = '1.0.0'
-global.yt = 'https://www.youtube.com/@Azami_19'
-global.ig = 'https://instagram.com/azami.19'
+global.yt = 'https://t.me/cloudfrontaccounts'
+global.ig = 'https://t.me/cloudfrontaccounts'
 global.md = 'https://github.com/Undefined17/CuriosityBot-MD'
 global.nn = 'https://chat.whatsapp.com/LFQY7VlRIjtItIt5nKXHjc'
 global.nnn = 'https://chat.whatsapp.com/LFQY7VlRIjtItIt5nKXHjc'
